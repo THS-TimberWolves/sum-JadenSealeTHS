@@ -1,4 +1,3 @@
-#while summation code following directions from Readme
 x = int(input())
 stored_num = 0
 while x != 0:
